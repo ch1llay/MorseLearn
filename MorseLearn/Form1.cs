@@ -161,7 +161,7 @@ namespace MorseLearn
         private void button23_Click(object sender, EventArgs e)
         {
             sound("Х");
-            label1.Text = "Пропевание:" + "хи-ми-чи-те";
+            label1.Text = "Пропевание:" + "хи-ми-чи-те"; // не работает
         }
 
         private void button24_Click(object sender, EventArgs e)
